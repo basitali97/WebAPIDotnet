@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEwARWU+iYRq3f+o5yM4DHJauibMdbIsFAUn26SsW8NmbiVH3FcPoYJNO6sZEsfU2Pb2kkMYXyyiFpwsEbZwPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\basitsiddiqui\\Desktop\\DotnetWebAPI\\DevOps Assignment\\WebApplication\\WebApplication\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\basitsiddiqui\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\basitsiddiqui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

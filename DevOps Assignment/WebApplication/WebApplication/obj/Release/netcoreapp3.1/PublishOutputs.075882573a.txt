@@ -1,0 +1,7 @@
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.exe
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.dll
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.deps.json
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.runtimeconfig.json
+D:\DevOps Assignment\WebApplication\WebApplication\obj\Release\netcoreapp3.1\PubTmp\Out\WebApplication.pdb
